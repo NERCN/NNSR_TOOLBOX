@@ -4,7 +4,7 @@ NNSR（Neural Signal Processing and Closed-loop Research Toolbox）分析平台�
 
 NNSR (Neural Signal Processing and Closed-loop Research Toolbox) is an integrated neural signal processing toolbox designed specifically for neuromodulation and deep brain stimulation (DBS) research. The platform supports efficient real-time data analysis and ex vivo closed-loop experiments with automated signal processing, visualization systems, and security protocols.
 
-## 主要特点 / Key Features
+## 特点 / Features
 
 - **自动化信号处理 / Automated Signal Processing**：平台集成先进的深度学习算法和滤波技术，自动识别并去除伪迹，提取重要的信号特征（如频带功率、峰值频率、相位特征等），大大提高分析效率。  
   The platform integrates advanced deep learning algorithms and filtering techniques to automatically identify and remove artifacts, extracting important signal features (such as band power, peak frequency, phase features, etc.), significantly improving analysis efficiency.
@@ -31,3 +31,5 @@ After filling out the questionnaire, we will send you a launch notification and 
 
 感谢您的关注！  
 Thank you for your interest!
+
+bY NERCN lab
