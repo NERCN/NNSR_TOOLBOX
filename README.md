@@ -1,8 +1,8 @@
 # NNSR 分析平台 / NNSR Platform
 
-NNSR（Neural Signal Processing and Closed-loop Research Toolbox）分析平台是一个集成的神经信号处理工具箱，为神经调控和深脑刺激（DBS）研究而设计。平台通过自动化信号处理、可视化系统以及安全协议支持，助力研究人员高效地进行实时数据分析和体外闭环实验。
+NNSR（NERCN NeuroSignal Research) Toolbox分析平台是一个免费的、开源的神经信号处理工具箱，基于 MATLAB 实现，专为神经调控和可感知深脑电刺激（DBS）研究而设计。平台通过自动化信号处理、可视化系统以及安全协议支持，助力研究人员高效地进行实时数据分析和体外闭环研究。
 
-NNSR (Neural Signal Processing and Closed-loop Research Toolbox) is an integrated neural signal processing toolbox designed specifically for neuromodulation and deep brain stimulation (DBS) research. The platform supports efficient real-time data analysis and ex vivo closed-loop experiments with automated signal processing, visualization systems, and security protocols.
+NNSR （NERCN NeuroSignal Research) Toolbox is an integrated neural signal processing toolbox designed specifically for neuromodulation and deep brain stimulation (DBS) research. The platform supports efficient real-time data analysis and ex vivo closed-loop experiments with automated signal processing, visualization systems, and security protocols.
 
 ## 特点 / Features
 
