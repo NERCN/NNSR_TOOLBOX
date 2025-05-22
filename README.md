@@ -20,8 +20,8 @@ NNSR （NERCN NeuroSignal Research) Toolbox is an integrated neural signal proce
 
 ## 正式发布 / Official Launch
 
-我们将在 **2025年7月15日** 正式发布 NNSR 分析平台，届时将开放平台并提供试用机会。如果您对平台感兴趣，欢迎填写问卷链接，帮助我们更好地了解您的需求：  
-We will officially launch the NNSR platform on **July 15, 2025**, and the platform will be available for trial. If you're interested, please fill out the questionnaire to help us better understand your needs:
+我们将在 **2025年7月15日** 正式发布 NNSR 分析平台，届时将开放平台使用机会。如果您对平台感兴趣，欢迎填写问卷链接，帮助我们更好地了解您的需求：  
+We will officially launch the NNSR platform on **July 15, 2025**, and the platform will be available for use. If you're interested, please fill out the questionnaire to help us better understand your needs:
 
 填写问卷链接/questionnaire： 
 (主链接/Main：(http://wenjuan.tsinghua.edu.cn/s/f6vuaa/))
