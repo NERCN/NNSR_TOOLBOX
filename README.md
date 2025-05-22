@@ -1,4 +1,4 @@
-# NNSR 分析平台简介 / NNSR Platform Introduction
+# NNSR 分析平台 / NNSR Platform
 
 NNSR（Neural Signal Processing and Closed-loop Research Toolbox）分析平台是一个集成的神经信号处理工具箱，为神经调控和深脑刺激（DBS）研究而设计。平台通过自动化信号处理、可视化系统以及安全协议支持，助力研究人员高效地进行实时数据分析和体外闭环实验。
 
@@ -23,8 +23,8 @@ NNSR (Neural Signal Processing and Closed-loop Research Toolbox) is an integrate
 我们将在 **2025年7月15日** 正式发布 NNSR 分析平台，届时将开放平台并提供试用机会。如果您对平台感兴趣，欢迎填写问卷链接，帮助我们更好地了解您的需求：  
 We will officially launch the NNSR platform on **July 15, 2025**, and the platform will be available for trial. If you're interested, please fill out the questionnaire to help us better understand your needs:
 
-[填写问卷链接](http://wenjuan.tsinghua.edu.cn/s/f6vuaa/)(备用链接：(http://thulingxiaoguan.mikecrm.com/oTfgtXx))  
-[Fill out the questionnaire](http://wenjuan.tsinghua.edu.cn/s/f6vuaa/)(backup:(http://thulingxiaoguan.mikecrm.com/oTfgtXx))
+填写问卷链接： (主链接：http://wenjuan.tsinghua.edu.cn/s/f6vuaa/)(备用链接：(http://thulingxiaoguan.mikecrm.com/oTfgtXx))  
+Fill out the questionnaire: (Main: http://wenjuan.tsinghua.edu.cn/s/f6vuaa/)(backup:(http://thulingxiaoguan.mikecrm.com/oTfgtXx))
 
 填写问卷后，我们将在平台上线后第一时间向您发送上线通知，并提供提前试用的机会。  
 After filling out the questionnaire, we will send you a launch notification and offer early access as soon as the platform goes live.
