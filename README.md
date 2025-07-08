@@ -29,10 +29,10 @@ The NNSR platform offers two deployment options for users to choose according to
 
 **2. 独立打包部署 / Standalone Package Deployment**
 - 已完成独立打包，无需 MATLAB 环境即可运行
-- 打包文件位于 **XX文件** 中，可直接下载使用
+- 打包文件位于 **Standalone Package** 中，可直接下载使用
 - 适合快速部署和使用的研究场景
 - Completed standalone packaging, can run without MATLAB environment
-- Package files are located in **XX files**, ready for direct download and use
+- Package files are located in **Standalone Package**, ready for direct download and use
 - Suitable for quick deployment and usage scenarios
 
 **在线闭环研究支持 / Online Closed-Loop Research Support**
