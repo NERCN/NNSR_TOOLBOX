@@ -1,8 +1,8 @@
 # NNSR 分析平台 - 独立部署版本
-# NNSR Platform - Standalone Deployment
+ NNSR Platform - Standalone Deployment
 
-NNSR（NERCN NeuroSignal Research) Toolbox 分析平台独立部署版本，无需 MATLAB 环境即可运行。
-NNSR Platform standalone deployment version that runs without MATLAB environment.
+NNSR（NERCN NeuroSignal Research) Toolbox 分析平台独立部署版本，无需 MATLAB 软件即可运行。
+NNSR Platform standalone deployment version that runs without MATLAB software.
 
 📦 版本选择 / Version Options
 
