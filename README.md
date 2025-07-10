@@ -9,7 +9,7 @@ Web：
 - 主网页 / Main：https://nercn.github.io/NNSR/
 - 备用（国内） / Backup：https://nercn-nnsr.netlify.app/
 
-<img src="https://github.com/user-attachments/assets/39ee0d27-2065-401c-9eef-f833b088e2f5" alt="FIG5" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/39ee0d27-2065-401c-9eef-f833b088e2f5" alt="FIG5" width="50%">
 
 **特点 / Features**
 
@@ -35,18 +35,18 @@ The NNSR platform offers two deployment options for users to choose according to
 - Requires MATLAB runtime environment
 
 **2. 独立打包部署 / Standalone Package Deployment**
-- 已完成独立打包，无需 MATLAB 环境即可运行
+- 已完成独立打包，无需 MATLAB 环境即可运行（支持windows与mac）
 - 打包文件位于 **Standalone Package** 中，可直接下载使用
 - 适合快速部署和使用的研究场景
-- Completed standalone packaging, can run without MATLAB environment
+- Completed standalone packaging, can run without MATLAB environment（support windows and mac）
 - Package files are located in **Standalone Package**, ready for direct download and use
 - Suitable for quick deployment and usage scenarios
 
 **在线闭环研究支持 / Online Closed-Loop Research Support**
 
-在线、闭环研究工具需要与特定的 IPG（Implantable Pulse Generator）设备配合使用。如需使用此功能，请填写咨询问卷以联系作者获取详细的设备兼容性信息和技术支持。
+在线、闭环研究工具目前需要与特定的 IPG（PINS 106RS）设备配合使用。如需使用此功能，请填写咨询问卷以联系作者获取详细的设备兼容性信息和技术支持。
 
-Online and closed-loop research tools require specific IPG (Implantable Pulse Generator) device compatibility. If you need to use this function, please fill out the consultation questionnaire to contact the author for detailed device compatibility information and technical support.
+Online and closed-loop research tools currently require specific IPG (PINS 106RS) device compatibility. If you need to use this function, please fill out the consultation questionnaire to contact the author for detailed device compatibility information and technical support.
 
 ** 完整分析系统将在2025年12月上线 / The fully functional system will be released in December 2025
 
