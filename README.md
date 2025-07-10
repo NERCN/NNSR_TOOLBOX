@@ -1,8 +1,14 @@
-**NNSR 分析平台 / NNSR Platform**
+﻿**NNSR 分析平台 / NNSR Platform**
 
 NNSR（NERCN NeuroSignal Research) Toolbox分析平台是一个免费的、开源的神经信号处理工具箱，基于 MATLAB 实现，专为神经调控和可感知深脑电刺激（DBS）研究而设计。平台通过自动化信号处理、可视化系统以及安全协议支持，助力研究人员高效地进行数据分析和闭环研究。
 
 NNSR （NERCN NeuroSignal Research) Toolbox is an integrated neural signal processing toolbox designed specifically for neuromodulation and deep brain stimulation (DBS) research. The platform supports efficient real-time data analysis and ex vivo closed-loop experiments with automated signal processing, visualization systems, and security protocols.
+
+Web：
+- 主网页 / Main：https://nercn.github.io/NNSR/
+- 备用（国内） / Backup：https://nercn-nnsr.netlify.app/
+
+![启动界面]( FIG5.jpg "\Source Code\")
 
 **特点 / Features**
 
@@ -40,6 +46,8 @@ The NNSR platform offers two deployment options for users to choose according to
 在线、闭环研究工具需要与特定的 IPG（Implantable Pulse Generator）设备配合使用。如需使用此功能，请填写咨询问卷以联系作者获取详细的设备兼容性信息和技术支持。
 
 Online and closed-loop research tools require specific IPG (Implantable Pulse Generator) device compatibility. If you need to use this function, please fill out the consultation questionnaire to contact the author for detailed device compatibility information and technical support.
+
+** 完整分析系统将在2025年12月上线 / The fully functional system will be released in December 2025
 
 **联系方式 / Contact**
 
