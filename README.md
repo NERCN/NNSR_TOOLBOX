@@ -1,4 +1,4 @@
-﻿**NNSR 分析平台 / NNSR Platform**![1735974069763](https://github.com/user-attachments/assets/e4407d4c-6893-4c1e-af35-4284115db0e1)
+﻿**NNSR 分析平台 / NNSR Platform**
 
 
 NNSR（NERCN NeuroSignal Research) Toolbox分析平台是一个免费的、开源的神经信号处理工具箱，基于 MATLAB 实现，专为神经调控和可感知深脑电刺激（DBS）研究而设计。平台通过自动化信号处理、可视化系统以及安全协议支持，助力研究人员高效地进行数据分析和闭环研究。
@@ -9,7 +9,7 @@ Web：
 - 主网页 / Main：https://nercn.github.io/NNSR/
 - 备用（国内） / Backup：https://nercn-nnsr.netlify.app/
 
-![FIG5](https://github.com/user-attachments/assets/39ee0d27-2065-401c-9eef-f833b088e2f5)
+<img src="https://github.com/user-attachments/assets/39ee0d27-2065-401c-9eef-f833b088e2f5" alt="FIG5" width="400" height="300">
 
 **特点 / Features**
 
